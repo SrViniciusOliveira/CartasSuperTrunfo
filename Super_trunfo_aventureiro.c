@@ -41,6 +41,8 @@
         printf("Digite a quantidade de pontos turisticos: \n");
         scanf("%d", &pontosTuristicos1);
 
+        // Calculo 1 
+
         densidadepopulacional1 = (float) populacao1 / area1;
         pibpercapita1 =(float) pib1 / populacao1;
 
@@ -70,6 +72,8 @@
 
         printf("Digite a quantidade de pontos turisticos: \n");
         scanf("%d", &pontosTuristicos2);
+
+        // Calculo 2
 
         densidadepopulacional2 = (float) populacao2 / area2;
         pibpercapita2 =(float) pib2 / populacao2;
