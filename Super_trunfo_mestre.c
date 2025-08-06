@@ -123,6 +123,8 @@
        printf("Pib Per-capita: Carta 1 venceu (%d) \n", pibpercapita1 > pibpercapita2);
        printf("Super Poder: Carta 1 venceu (%d)", Superpoder1 > Superpoder2);
 
+       
+
        return 0;
 
     }
