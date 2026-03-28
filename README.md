@@ -3,7 +3,7 @@ Objetivos:
 <br>
 .Dar entrada nos dados das cartas e apresenta-lós aos usuários.
 <br>
-.Comprar os dados das cartas.
+.Comparar os dados das cartas.
 <br>
 .Somar os poderes.
 <br>
